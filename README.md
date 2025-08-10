@@ -1,10 +1,11 @@
 # KAVA Images Repository
 
-This repository contains images for the KAVA project, served via GitHub Pages.
+This repository contains images for the KAVA project, served via GitHub Pages.1
 
 ## Images Available
 
 ### Main Images
+
 - `images/1.png` - Main image 1
 - `images/940140136.jpg` - Background image
 - `images/IMG_4301.jpg` - Photo image
@@ -12,6 +13,7 @@ This repository contains images for the KAVA project, served via GitHub Pages.
 - `images/matcha.png` - Matcha image
 
 ### Gallery Images
+
 - `images/gallery/IMG_4314.jpg` - Gallery photo 1
 - `images/gallery/photo_2025-08-09_17-29-20.jpg` - Gallery photo 2
 - `images/gallery/photo_2025-08-09_17-29-24.jpg` - Gallery photo 3
@@ -25,6 +27,7 @@ All images are accessible via GitHub Pages at:
 `https://kava-bucharest.github.io/Public/images/`
 
 ### Example URLs:
+
 - `https://kava-bucharest.github.io/Public/images/kava.png`
 - `https://kava-bucharest.github.io/Public/images/gallery/IMG_4314.jpg`
 
